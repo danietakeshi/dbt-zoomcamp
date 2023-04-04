@@ -10,6 +10,8 @@ sources:
         - name: green_tripdata
         - name: yellow_tripdata
         - name: fhv_tripdata
+        - name: ods_football_fixtures
+        - name: ods_football_stats
 
 
 models:
